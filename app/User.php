@@ -46,4 +46,5 @@ class User extends Authenticatable
 
     //prueba 3
 
+    //prueba 4
 }
