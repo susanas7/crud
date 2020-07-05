@@ -15,9 +15,9 @@ class UsersTest extends TestCase
      */
     public function testUserCanShow()
     {
-        $response = $this->get(route('users.index'));
+        $response = $this->get('/');
 
-        $response->assertStatus(500);
+        $response->assertStatus(200);
     }
 
    
