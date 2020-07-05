@@ -13,11 +13,11 @@ class UsersTest extends TestCase
      *
      * @return void
      */
-    public function testUserCanLogin()
+    public function testUserCanShow()
     {
-        $response = $this->get('/');
+        $response = $this->get(route('users.index'));
 
-        $response->assertStatus(200);
+        $response->assertStatus(500);
     }
 
    
