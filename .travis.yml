@@ -9,5 +9,8 @@ git:
 install:
   composer install
 
+deploy:
+  github-token: $GITHUB_TOKEN
+
 
 
