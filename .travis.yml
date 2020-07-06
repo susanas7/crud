@@ -6,9 +6,6 @@ php:
 git:
   depth: 3
 
-branches:
-  -master  
-
 install:
   composer install
 
