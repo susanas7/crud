@@ -7,12 +7,10 @@ git:
   depth: 3
 
 branches:
-  only:
   -master  
 
 install:
   composer install
 
-  before_install:
-    - mysql -e 'CREATE DATABASE IF NOT EXISTS laravelTesting; USE laravelTesting';
+
 
