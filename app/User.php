@@ -43,18 +43,7 @@ class User extends Authenticatable
       }
       return false;
     }
+  
 
-    //prueba 3
-
-    //prueba 4
+   //wwwwweeeeeee 
 }
-
-//susy1
-
-//susy2
-
-//susyfinal
-
-//mergefinal
-
-//merge final.2 
