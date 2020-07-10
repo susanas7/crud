@@ -122,4 +122,11 @@ class UserController extends Controller
 //.2
 //.3
 
+<<<<<<< HEAD
 //epa
+=======
+//wii
+//wii2
+
+//fast-f
+>>>>>>> develop
