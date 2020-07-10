@@ -129,4 +129,9 @@ class UserController extends Controller
 //wii2
 
 //fast-f
+<<<<<<< HEAD
+>>>>>>> develop
+=======
+
+//ultimo
 >>>>>>> develop
