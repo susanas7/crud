@@ -123,3 +123,4 @@ class UserController extends Controller
 //.3
 
 //wii
+//wii2
