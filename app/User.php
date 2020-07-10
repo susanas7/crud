@@ -45,4 +45,13 @@ class User extends Authenticatable
     }
   
 }
+<<<<<<< HEAD
     
+=======
+
+//susy1
+
+//susy2
+
+//susyfinal
+>>>>>>> develop
