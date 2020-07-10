@@ -110,9 +110,6 @@ class UserController extends Controller
       $user->save();
       return redirect('/users');
     }
-
-
-    //merge2
-
-    //merge3
 }
+
+//wwwww
