@@ -54,4 +54,11 @@ class User extends Authenticatable
 //susy2
 
 //susyfinal
+<<<<<<< HEAD
+>>>>>>> develop
+=======
+
+//mergefinal
+
+//merge final.2 
 >>>>>>> develop
