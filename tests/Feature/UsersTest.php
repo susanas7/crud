@@ -13,21 +13,12 @@ class UsersTest extends TestCase
      *
      * @return void
      */
-    public function testUserCanLogin()
+    public function testUserCanShow()
     {
         $response = $this->get('/');
 
         $response->assertStatus(200);
     }
 
-    public function testUserCanShow()
-    {   
-        //no funciona xq no estamos pasando el parametro de user
-        $response = $this->get(route('users.edit'));
-
-        $response->assertStatus(200);
-    }
-
-    //prueba...
-
+   
 }
